@@ -71,7 +71,7 @@ After we install DHCP server we go ahead and create our scope with the specifica
 <img src="https://i.imgur.com/4wvjaxT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- The last thing we are doing is creating out Client:  <br/>
+ The last thing we are doing is creating our Client:  <br/>
 <img src="https://i.imgur.com/0MQKQRM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
